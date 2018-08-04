@@ -1,0 +1,5 @@
+/build.py
+/build_binaries_windows.py
+/generate_code.py
+/names_to_rename.py
+/rename_pep8.py

@@ -1,0 +1,10 @@
+/__init__.py
+/pydevd_frame_eval_cython_wrapper.py
+/pydevd_frame_eval_main.py
+/pydevd_frame_evaluator.c
+/pydevd_frame_evaluator.pxd
+/pydevd_frame_evaluator.pyx
+/pydevd_frame_evaluator_win32_36_32.cp36-win32.pyd
+/pydevd_frame_evaluator_win32_36_64.cp36-win_amd64.pyd
+/pydevd_frame_tracing.py
+/pydevd_modify_bytecode.py

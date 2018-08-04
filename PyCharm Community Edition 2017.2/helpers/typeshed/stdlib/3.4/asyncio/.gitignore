@@ -1,0 +1,11 @@
+/__init__.pyi
+/coroutines.pyi
+/events.pyi
+/futures.pyi
+/locks.pyi
+/protocols.pyi
+/queues.pyi
+/streams.pyi
+/subprocess.pyi
+/tasks.pyi
+/transports.pyi

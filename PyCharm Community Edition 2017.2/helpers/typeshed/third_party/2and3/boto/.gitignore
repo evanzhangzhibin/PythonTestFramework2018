@@ -1,0 +1,8 @@
+/__init__.pyi
+/auth.pyi
+/auth_handler.pyi
+/compat.pyi
+/connection.pyi
+/exception.pyi
+/plugin.pyi
+/regioninfo.pyi

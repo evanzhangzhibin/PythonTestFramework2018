@@ -1,0 +1,14 @@
+/__init__.pyi
+/charset.pyi
+/contentmanager.pyi
+/encoders.pyi
+/errors.pyi
+/feedparser.pyi
+/generator.pyi
+/header.pyi
+/headerregistry.pyi
+/iterators.pyi
+/message.pyi
+/parser.pyi
+/policy.pyi
+/utils.pyi

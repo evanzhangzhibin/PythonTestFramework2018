@@ -1,0 +1,9 @@
+/__init__.py
+/application.pyi
+/audio.pyi
+/base.pyi
+/image.pyi
+/message.pyi
+/multipart.pyi
+/nonmultipart.pyi
+/text.pyi

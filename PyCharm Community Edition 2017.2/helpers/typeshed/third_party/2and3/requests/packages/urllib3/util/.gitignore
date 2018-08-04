@@ -1,0 +1,8 @@
+/__init__.pyi
+/connection.pyi
+/request.pyi
+/response.pyi
+/retry.pyi
+/ssl_.pyi
+/timeout.pyi
+/url.pyi

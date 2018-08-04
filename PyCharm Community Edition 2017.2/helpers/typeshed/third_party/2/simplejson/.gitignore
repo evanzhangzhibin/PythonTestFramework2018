@@ -1,0 +1,4 @@
+/__init__.pyi
+/decoder.pyi
+/encoder.pyi
+/scanner.pyi

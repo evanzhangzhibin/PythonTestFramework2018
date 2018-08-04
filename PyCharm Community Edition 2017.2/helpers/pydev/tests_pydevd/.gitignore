@@ -1,0 +1,10 @@
+/__init__.py
+/test_check_pydevconsole.py
+/test_get_referrers.py
+/test_jyserver.py
+/test_jysimpleTipper.py
+/test_pydev_ipython_011.py
+/test_pydevconsole.py
+/test_pyserver.py
+/test_signature.py
+/test_simpleTipper.py

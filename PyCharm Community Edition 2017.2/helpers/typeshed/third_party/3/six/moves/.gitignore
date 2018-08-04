@@ -1,0 +1,7 @@
+/__init__.pyi
+/cPickle.pyi
+/urllib_error.pyi
+/urllib_parse.pyi
+/urllib_request.pyi
+/urllib_response.pyi
+/urllib_robotparser.pyi

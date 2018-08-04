@@ -1,0 +1,9 @@
+/__init__.py
+/pydev_runfiles.py
+/pydev_runfiles_coverage.py
+/pydev_runfiles_nose.py
+/pydev_runfiles_parallel.py
+/pydev_runfiles_parallel_client.py
+/pydev_runfiles_pytest2.py
+/pydev_runfiles_unittest.py
+/pydev_runfiles_xml_rpc.py

@@ -1,0 +1,5 @@
+/__init__.pyi
+/_compat.pyi
+/_constants.pyi
+/_native.pyi
+/_speedups.pyi

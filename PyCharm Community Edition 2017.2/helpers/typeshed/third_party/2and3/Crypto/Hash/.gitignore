@@ -1,0 +1,12 @@
+/HMAC.pyi
+/MD2.pyi
+/MD4.pyi
+/MD5.pyi
+/RIPEMD.pyi
+/SHA.pyi
+/SHA224.pyi
+/SHA256.pyi
+/SHA384.pyi
+/SHA512.pyi
+/__init__.pyi
+/hashalgo.pyi

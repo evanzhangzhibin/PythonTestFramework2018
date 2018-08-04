@@ -1,0 +1,8 @@
+/Makefile
+/attach_linux.c
+/compile_mac.sh
+/compile_so.sh
+/gdb_threads_settrace.py
+/lldb_prepare.py
+/lldb_threads_settrace.py
+/python.h

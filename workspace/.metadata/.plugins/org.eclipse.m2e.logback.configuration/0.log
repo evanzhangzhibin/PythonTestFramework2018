@@ -1,0 +1,4 @@
+2018-08-02 19:25:40,340 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-08-03 22:07:10,735 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-08-03 22:32:30,637 [Worker-15] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-08-03 22:36:23,421 [Worker-7] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero

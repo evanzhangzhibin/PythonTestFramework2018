@@ -1,0 +1,5 @@
+/__init__.pyi
+/client.pyi
+/connection.pyi
+/exceptions.pyi
+/utils.pyi

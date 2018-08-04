@@ -1,0 +1,8 @@
+/__init__.pyi
+/descriptor.pyi
+/descriptor_pb2.pyi
+/descriptor_pool.pyi
+/message.pyi
+/message_factory.pyi
+/reflection.pyi
+/symbol_database.pyi

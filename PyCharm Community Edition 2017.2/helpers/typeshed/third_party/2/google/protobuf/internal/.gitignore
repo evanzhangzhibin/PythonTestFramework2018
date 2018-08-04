@@ -1,0 +1,5 @@
+/__init__.pyi
+/decoder.pyi
+/encoder.pyi
+/enum_type_wrapper.pyi
+/wire_format.pyi

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/MervinDiazLugo/PythonTestFrameWork2018"/>
+	</list>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\TestFramework\.git">
+			<item value="false"/>
+			<item value="Maria &lt;Maria@192.168.0.6&gt;"/>
+			<item value="Inicializar Framework"/>
+			<item value="Maria &lt;Maria@192.168.0.6&gt;"/>
+			<item value="0000000000000000000000000000000000000000"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item value="200,200" key="STAGING_SASH_FORM_WEIGHT"/>
+		<item value="false" key="sortItemState"/>
+		<item value="500,500" key="HORIZONTAL_SASH_FORM_WEIGHT"/>
+	</section>
+</section>

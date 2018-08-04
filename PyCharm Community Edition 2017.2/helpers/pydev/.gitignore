@@ -1,0 +1,17 @@
+/LICENSE
+/README.rst
+/build.gradle
+/interpreterInfo.py
+/merge_pydev_pycharm.txt
+/pycharm-readme.txt
+/pycompletionserver.py
+/pydev_app_engine_debug_startup.py
+/pydev_coverage.py
+/pydev_pysrc.py
+/pydev_run_in_console.py
+/pydevconsole.py
+/pydevd.py
+/pydevd_file_utils.py
+/runfiles.py
+/setup.py
+/setup_cython.py

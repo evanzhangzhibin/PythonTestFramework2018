@@ -1,0 +1,17 @@
+/__init__.pyi
+/acl.pyi
+/bucket.pyi
+/bucketlistresultset.pyi
+/bucketlogging.pyi
+/connection.pyi
+/cors.pyi
+/deletemarker.pyi
+/key.pyi
+/keyfile.pyi
+/lifecycle.pyi
+/multidelete.pyi
+/multipart.pyi
+/prefix.pyi
+/tagging.pyi
+/user.pyi
+/website.pyi

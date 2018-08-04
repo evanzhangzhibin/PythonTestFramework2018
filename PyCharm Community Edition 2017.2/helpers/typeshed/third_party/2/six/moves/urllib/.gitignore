@@ -1,0 +1,6 @@
+/__init__.pyi
+/error.pyi
+/parse.pyi
+/request.pyi
+/response.pyi
+/robotparser.pyi

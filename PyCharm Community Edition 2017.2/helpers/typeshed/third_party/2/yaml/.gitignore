@@ -1,0 +1,16 @@
+/__init__.pyi
+/composer.pyi
+/constructor.pyi
+/dumper.pyi
+/emitter.pyi
+/error.pyi
+/events.pyi
+/loader.pyi
+/nodes.pyi
+/parser.pyi
+/reader.pyi
+/representer.pyi
+/resolver.pyi
+/scanner.pyi
+/serializer.pyi
+/tokens.pyi

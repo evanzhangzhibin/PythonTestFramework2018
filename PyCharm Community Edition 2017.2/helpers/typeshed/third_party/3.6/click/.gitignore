@@ -1,0 +1,11 @@
+/README.md
+/__init__.pyi
+/core.pyi
+/decorators.pyi
+/exceptions.pyi
+/formatting.pyi
+/globals.pyi
+/parser.pyi
+/termui.pyi
+/types.pyi
+/utils.pyi

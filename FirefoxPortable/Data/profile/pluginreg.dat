@@ -1,0 +1,29 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version|0.17|$
+Arch|x86_64-msvc|$
+
+[PLUGINS]
+npctrl.dll|$
+C:\Program Files\Microsoft Silverlight\5.1.20913.0\npctrl.dll|$
+5.1.20913.0|$
+1379049824000|0|0|0|$
+5.1.20913.0|$
+Silverlight Plug-In|$
+2
+0|application/x-silverlight|npctrl|scr|$
+1|application/x-silverlight-2|||$
+NPSWF64_30_0_0_113.dll|$
+C:\Windows\system32\Macromed\Flash\NPSWF64_30_0_0_113.dll|$
+30.0.0.113|$
+1528419371465|0|0|0|$
+Shockwave Flash 30.0 r0|$
+Shockwave Flash|$
+2
+0|application/x-shockwave-flash|Adobe Flash movie|swf|$
+1|application/futuresplash|FutureSplash movie|spl|$
+
+[INVALID]
+C:\Program Files\Microsoft Silverlight\5.1.20913.0\npctrlui.dll|$
+1379049824000|$

@@ -1,0 +1,13 @@
+MODULES_MANAGER_V2
+src.__init__|C:\TestFramework\workspace\Project_Basics\src\__init__.py
+src.data.__init__|C:\TestFramework\workspace\Project_Basics\src\data\__init__.py
+src.pages.Google|C:\TestFramework\workspace\Project_Basics\src\pages\Google.py
+src.pages.__init__|C:\TestFramework\workspace\Project_Basics\src\pages\__init__.py
+src.parts.Login|C:\TestFramework\workspace\Project_Basics\src\parts\Login.py
+src.parts.__init__|C:\TestFramework\workspace\Project_Basics\src\parts\__init__.py
+src.tests.__init__|C:\TestFramework\workspace\Project_Basics\src\tests\__init__.py
+src.tests.set_xml|C:\TestFramework\workspace\Project_Basics\src\tests\set_xml.py
+src.tests.tst_001|C:\TestFramework\workspace\Project_Basics\src\tests\tst_001.py
+src.utils.__init__|C:\TestFramework\workspace\Project_Basics\src\utils\__init__.py
+src.utils.config|C:\TestFramework\workspace\Project_Basics\src\utils\config.py
+src.utils.functions|C:\TestFramework\workspace\Project_Basics\src\utils\functions.py

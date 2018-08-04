@@ -1,0 +1,5 @@
+/__init__.pyi
+/client.pyi
+/cookiejar.pyi
+/cookies.pyi
+/server.pyi

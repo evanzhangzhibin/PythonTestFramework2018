@@ -1,0 +1,10 @@
+/__init__.pyi
+/_collections.pyi
+/connection.pyi
+/connectionpool.pyi
+/exceptions.pyi
+/fields.pyi
+/filepost.pyi
+/poolmanager.pyi
+/request.pyi
+/response.pyi

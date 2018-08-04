@@ -1,0 +1,102 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\TestFramework\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Project_Basics\com.python.pydev.analysis\v2_indexcache
+src.tests.tst_001|1533263549563281000|C:\TestFramework\workspace\Project_Basics\src\tests\tst_001.py
+src.data.__init__|1532534539539563000|C:\TestFramework\workspace\Project_Basics\src\data\__init__.py
+src.utils.config|1533257054521786000|C:\TestFramework\workspace\Project_Basics\src\utils\config.py
+src.__init__|1532534527190212000|C:\TestFramework\workspace\Project_Basics\src\__init__.py
+src.tests.set_xml|1532534539711000000|C:\TestFramework\workspace\Project_Basics\src\tests\set_xml.py
+src.utils.__init__|1532534535899212000|C:\TestFramework\workspace\Project_Basics\src\utils\__init__.py
+src.pages.Google|1533260522772158000|C:\TestFramework\workspace\Project_Basics\src\pages\Google.py
+src.parts.__init__|1532534527869212000|C:\TestFramework\workspace\Project_Basics\src\parts\__init__.py
+src.pages.__init__|1532534535086212000|C:\TestFramework\workspace\Project_Basics\src\pages\__init__.py
+src.parts.Login|1532534535126212000|C:\TestFramework\workspace\Project_Basics\src\parts\Login.py
+src.tests.__init__|1532534534944212000|C:\TestFramework\workspace\Project_Basics\src\tests\__init__.py
+src.utils.functions|1533256934852941000|C:\TestFramework\workspace\Project_Basics\src\utils\functions.py
+-- END DISKCACHE
+-- START DICTIONARY
+20
+9=C:\TestFramework\workspace\Project_Basics\src\tests\set_xml.py
+11=C:\TestFramework\workspace\Project_Basics\src\tests\tst_001.py
+4=src.utils.config
+14=CommonFunctions.cerrar_alerta_gettext
+5=C:\TestFramework\workspace\Project_Basics\src\pages\Google.py
+15=login
+18=Configuracion
+8=src.parts.Login
+16=CommonFunctions.abrirNavegador
+3=C:\TestFramework\workspace\Project_Basics\src\utils\config.py
+12=src.tests.tst_001
+19=Inicio
+7=C:\TestFramework\workspace\Project_Basics\src\parts\Login.py
+10=src.tests.set_xml
+17=tst_001.setUp
+20=tst_001
+6=src.pages.Google
+1=C:\TestFramework\workspace\Project_Basics\src\utils\functions.py
+13=CommonFunctions
+2=src.utils.functions
+-- END DICTIONARY
+-- START TREE 1
+8
+com|1|CommonFunctions!1^36#7*17@
+con|1|Configuracion!3^3#7*33@
+dia|1|dia!1^32#1*19@
+hor|1|hora!1^33#1*19@
+ini|1|Inicio!5^8#7*49@
+log|1|login!7^5#7*65@
+set|1|set_Values!9^9#7*81@
+tst|1|tst_001!11^22#7*97@
+-- END TREE
+-- START TREE 2
+49
+abr|1|abrirNavegador!13&1^91#9*18@
+acc|1|accept_next_alert!14&1^623#9*19@
+ass|2|Assert_CSS!13&1^719#9*18@Assert_xpath!13&1^706#9*18@
+bus|1|buscar_texto!13&1^317#9*18@
+cap|2|capturarPantalla!13&1^517#9*18@capturar_Pantalla!13&1^542#9*18@
+cer|1|cerrar_alerta_gettext!13&1^622#9*18@
+che|2|check_exists_by_CSS!13&1^310#9*18@check_exists_by_xpath!13&1^303#9*18@
+cli|4|clickInputText!13&1^273#9*18@clickElementWait!13&1^256#9*18@clickElement!13&1^260#9*18@clikElemtNotDisplayXPATH!13&1^243#9*18@
+com|2|comprobacion_logueo!15&7^21#9*66@compareText!13&1^291#9*18@
+css|1|CSS_elements!13&1^447#9*18@
+dat|1|dateToStr!13&1^66#9*18@
+des|1|DesplazarHaciaElemento!13&1^324#9*18@
+dir|1|dir_navegador!16&1^100#13*19@
+dri|2|driver!17&11^28#13*99@driver!16&1^98#13*19@
+ele|2|elementIsPresent!13&1^136#9*18@elementIsPresentEnebledDisplayed!13&1^153#9*18@
+end|1|endTabPage!13&1^286#9*18@
+esc|1|EscribirCelda!13&1^698#9*18@
+esp|5|esperar_Link!13&1^426#9*18@esperar_ID!13&1^367#9*18@esperar_Name!13&1^400#9*18@esperar_CSS!13&1^413#9*18@esperar_Xpath!13&1^381#9*18@
+exc|1|Excel!18&3^15#5*35@
+get|1|getOsEnvVar!13&1^85#9*18@
+hbp|1|hbPfPathEvidencia!18&3^12#5*35@
+id_|1|ID_elements!13&1^451#9*18@
+img|1|img_Logo_xpath!19&5^10#5*51@
+inc|1|increment!13&1^70#9*18@
+ini|1|initBaseCounters!13&1^74#9*18@
+ir_|2|ir_a_xpath!13&1^336#9*18@ir_a_id!13&1^351#9*18@
+js_|4|JS_Click_CSS!13&1^472#9*18@JS_Click_ID!13&1^476#9*18@JS_Click_Link!13&1^480#9*18@JS_Click_Xpath!13&1^468#9*18@
+lee|1|LeerCelda!13&1^690#9*18@
+lin|1|Link_elements!13&1^459#9*18@
+mai|1|mailing!13&1^806#9*18@
+man|1|managePaths!13&1^59#9*18@
+mod|1|Modificar_XML_Enviroments!13&1^732#9*18@
+mou|3|mouse_over_css!13&1^645#9*18@mouse_over_id!13&1^635#9*18@mouse_over_xpath!13&1^640#9*18@
+nam|1|Name_elements!13&1^455#9*18@
+nav|1|Navegador!18&3^6#5*35@
+pas|1|passWord!17&11^32#9*99@
+qui|1|quitDriver!13&1^225#9*18@
+rut|1|rutina_logueo!15&7^7#9*66@
+sel|3|select_elements_id!13&1^490#9*18@select_elements_xpath!13&1^494#9*18@select_elements_css!13&1^498#9*18@
+sen|1|send_mail!13&1^773#9*18@
+set|3|setValueBaseCounter!13&1^80#9*18@setUp!20&11^25#9*98@setProps!13&1^44#9*18@
+tea|1|tearDown!20&11^63#9*98@
+tes|1|test_01!20&11^34#9*98@
+txt|2|txt_busqueda_xpath!19&5^11#5*51@txt_resultStats_xpath!19&5^13#5*51@
+url|1|URL!18&3^9#5*35@
+use|1|user!17&11^31#9*99@
+ver|7|verificarTexto_xpath!13&1^555#9*18@verificarTexto_ID!13&1^575#9*18@verificarTexto_css!13&1^565#9*18@verificar_ID!13&1^604#9*18@verificar_xpath!13&1^595#9*18@verificarTexto_link!13&1^585#9*18@verificar_CSS!13&1^613#9*18@
+wai|8|waitElementIsLoad!13&1^179#9*18@waitElementIsLoad_CSS!13&1^193#9*18@waitElementIsLoad_Class!13&1^209#9*18@waitClick!13&1^234#9*18@waitLoginElements_Link!13&1^664#9*18@waitLoginElementsCSS!13&1^677#9*18@waitStopLoad!13&1^166#9*18@waitLoginElements!13&1^651#9*18@
+xpa|1|Xpath_elements!13&1^443#9*18@
+-- END TREE

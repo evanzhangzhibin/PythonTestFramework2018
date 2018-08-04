@@ -1,0 +1,8 @@
+ALLURE_SRC
+C:\Program Files\Java\jdk1.8.0_111
+
+PATH
+%ALLURE_HOME%;C:\TestFramework\allure-2.7.0\lib
+
+PYTHONPATH
+C:\TestFramework\python36;C:\TestFramework\python36\Lib;C:\TestFramework\python36\Lib\site-packages;C:\TestFramework\python36\libs;C:\TestFramework\python36\Scripts;

@@ -1,0 +1,58 @@
+# -*- coding: utf-8 -*-
+import unittest
+from src.pages.Google import Inicio
+from selenium.webdriver.common.keys import Keys
+from src.utils.functions import CommonFunctions as Selenium
+
+import allure
+import pytest
+
+@allure.feature(u'LOGIN')
+@allure.story(u'001: El usuario se loguea a la aplicacion')
+@allure.testcase(u"Caso de Prueba 00001", u'http://my.tms.org/browse/TESTCASE-39')
+@allure.severity(allure.severity_level.NORMAL)
+@allure.description(u"""El usuario visualiza los componentes de la pagina HOME al ingresar con las validaciones de AD. </br>
+Ingresar el usuario y la contraseña de AD. </br></br>""")
+
+class tst_001(unittest.TestCase, Selenium):
+
+ 
+    def setUp(self):
+        #ABRIR LA APP
+        with allure.step(u'PASO 1: Ingresar a Google'):
+            self.driver = self.abrirNavegador(u"https://www.google.com")
+        
+        #DATOS DESDE EXCEL
+        self.user = self.LeerCelda("D2")
+        self.passWord = self.LeerCelda("E2")
+        
+    def test_01(self):
+        #ESPERAR EL INICIO DE LA APP
+        with allure.step(u'PASO 2: Ingresar Raet como termino de Busqueda'):
+            Validar = self.esperar_Xpath(Inicio.img_Logo_xpath)
+            if Validar == False:
+                self.capturar_Pantalla(u"No se inicializo google.com")
+                pytest.skip("No se inicializo google.com")
+            
+            self.Xpath_elements(Inicio.txt_busqueda_xpath).click()
+            self.Xpath_elements(Inicio.txt_busqueda_xpath).send_keys(u"Raet")
+            self.capturar_Pantalla(u"Ingresar Raet como termino de Busqueda")
+            self.Xpath_elements(Inicio.txt_busqueda_xpath).send_keys(Keys.ENTER)
+            self.waitElementIsLoad(Inicio.txt_resultStats_xpath)
+            
+        with allure.step(u'PASO 3: Verificar los resultados de busqueda'):    
+            
+            self.capturar_Pantalla(u"Ingresar Raet como termino de Busqueda")
+            Resultados = self.Xpath_elements(Inicio.txt_resultStats_xpath).text
+            print (Resultados)
+            
+            RAET = Resultados.split("de ", 9)
+            print (RAET)
+
+    def tearDown(self):
+        with allure.step(u'PASO 3: Salir de la aplicación.'):
+            self.driver.quit()
+
+
+if __name__ == "__main__":
+    unittest.main()

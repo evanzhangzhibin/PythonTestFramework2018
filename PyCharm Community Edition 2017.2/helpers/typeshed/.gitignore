@@ -1,0 +1,8 @@
+/.flake8
+/.travis.yml
+/CONTRIBUTING.md
+/LICENSE
+/README.md
+/requirements-tests-py2.txt
+/requirements-tests-py3.txt
+/runtests.sh

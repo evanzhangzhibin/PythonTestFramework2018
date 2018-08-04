@@ -1,0 +1,18 @@
+﻿<environment>
+    <parameter>
+        <key>Aplicacion</key>
+        <value>Homebanking</value>
+    </parameter>
+    <parameter>
+        <key>Browser</key>
+        <value>CHROME</value>
+    </parameter>
+    <parameter>
+        <key>Ambiente</key>
+        <value>Homologación</value>
+    </parameter>
+    <parameter>
+        <key>Nodo</key>
+        <value>IBA8151</value>
+    </parameter>
+</environment>

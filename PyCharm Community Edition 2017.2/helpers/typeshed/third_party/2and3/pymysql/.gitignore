@@ -1,0 +1,8 @@
+/__init__.pyi
+/charset.pyi
+/connections.pyi
+/converters.pyi
+/cursors.pyi
+/err.pyi
+/times.pyi
+/util.pyi
